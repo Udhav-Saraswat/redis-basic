@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sample-spring-redis
+  data:
+    redis:
+      host: localhost
+server:
+  port: 8090
